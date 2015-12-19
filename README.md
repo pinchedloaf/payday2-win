@@ -9,7 +9,8 @@ BLT 1.07 (r11_r5)
 
 Installation
 ------------
-Just copy to pd2 directory. Setup hotkeys for BLT.
+- Copy to mods directory after setting up BLT.
+- Setup hotkeys for BLT.
 
 Notes
 -----
