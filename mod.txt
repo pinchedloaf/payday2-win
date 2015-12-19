@@ -1,0 +1,17 @@
+{
+  "name" : "win",
+  "description" : "win",
+  "author" : "pinchedloaf",
+  "contact" : "pinchedloafs@gmail.com",
+  "version" : "0.1",
+  "keybinds" : [
+    {
+        "keybind_id" : "win",
+        "name" : "Win",
+        "description" : "Win",
+        "script_path" : "win.lua",
+        "run_in_menu" : false,
+        "run_in_game" : true,
+        "localized" : false
+    }]
+}
